@@ -1,0 +1,10 @@
+p{
+    background-color: rgb(208, 220, 216);
+    text-align: center;
+}
+p:hover{
+    cursor: pointer;
+}
+.cartitem{
+    background-color: antiquewhite;
+}
